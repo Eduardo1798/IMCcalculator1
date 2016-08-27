@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMC Edurdo</string>
+    <string name="title_activity_resultado">resultado</string>
+
+    <string name="texto_peso">peso</string>
+    <string name="texto_altura">altura</string>
+
+    <string name="texto_hpeso">EJ: 90.2</string>
+    <string name="texto_haltura">EJ:1.55</string>
+
+    <string name="boton_calcular">Calcular IMC</string>
+
+    <string name="botón_regresar">regresar</string>
+    <string name="texto_imc">Su IMC es de:</string>
+    <string name="texto_valor_imc">0</string>
+    <string name="title_activity_second">second</string>
+
+</resources>
+
+
